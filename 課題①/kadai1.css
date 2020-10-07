@@ -79,7 +79,6 @@ footer {
     flex-flow: wrap;
     margin: 0 auto;
     margin-top: 20px;
-    margin-bottom: 20px;
   }
   .step-box:last-child {
     width: 90%;
